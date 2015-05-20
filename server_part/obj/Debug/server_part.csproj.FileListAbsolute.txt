@@ -1,0 +1,6 @@
+V:\6 semester\ппо\lab_222\server_part\server_part\bin\Debug\server_part.exe.config
+V:\6 semester\ппо\lab_222\server_part\server_part\bin\Debug\server_part.exe
+V:\6 semester\ппо\lab_222\server_part\server_part\bin\Debug\server_part.pdb
+V:\6 semester\ппо\lab_222\server_part\server_part\obj\Debug\server_part.csprojResolveAssemblyReference.cache
+V:\6 semester\ппо\lab_222\server_part\server_part\obj\Debug\server_part.exe
+V:\6 semester\ппо\lab_222\server_part\server_part\obj\Debug\server_part.pdb
